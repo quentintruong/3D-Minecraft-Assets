@@ -8,3 +8,5 @@ The fire is a four-object-particle-system; if you want it to last longer, extend
 You may have to manually reconect images to their respective objects, depending on where you place the files.
 
 Free for any use without credit, but a star on this github would be deeply appreciated :P
+
+Display: https://www.youtube.com/watch?v=iLQ9-SLQsxk
